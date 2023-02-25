@@ -1,9 +1,9 @@
 {
-  "students": [
+  "student": [
     {
-      "name": "Vincent Ian O. Tagaan",
+      "Name": "Vincent Ian O. Tagaan",
       "Age": "21",
-      "Favorite_Quotes": " Some people come in your life as blessings. Some come in your life as lessons",
+      "Favorite_Quote": " Some people come in your life as blessings. Some come in your life as lessons",
       
      }
   ],
@@ -11,7 +11,7 @@
       {
           "Class_Section": "T90",
           "Section_Code": "CC 131",
-          "Buksu_Email": "2001104397@Student.Buksu.edu.ph"  
+          "BukSU_Email": "2001104397@student.Buksu.edu.ph"  
       }   
     ]
  }
